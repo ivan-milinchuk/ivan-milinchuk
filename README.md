@@ -9,7 +9,7 @@ Data engineer with NGO/govtech analytics experience in a wartime setting. I buil
 - Postgres-first analytics stacks with Python + SQL
 
 ## Tech
-**Python** · **SQL** · **PostgreSQL** · **Docker** · **Airflow** · Git · Linux  
+**Python** · **SQL** · **PostgreSQL** · **Docker** · **Airflow** · Git · Linux (arch, btw)
 (learning/using depending on project) dbt · cloud fundamentals · CI/CD basics
 
 ## Featured projects
