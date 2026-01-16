@@ -1,4 +1,4 @@
-# Ivan Milinchuk - Data Engineer
+# Ivan Milinchuk — Data Analyst / Analytics Engineer
 
 Data analyst with NGO/govtech analytics experience. I turn messy operational data into trusted reporting and decision-ready metrics: clear KPI definitions, data quality checks, and repeatable refresh. Technically strong (SQL/Python/PostgreSQL) and comfortable going end-to-end — from ELT (Airflow/Docker) to marts and dashboards.
 
