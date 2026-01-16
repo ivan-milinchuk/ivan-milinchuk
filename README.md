@@ -1,15 +1,15 @@
 # Ivan Milinchuk - Data Engineer
 
-Data engineer with NGO/govtech analytics experience in a wartime setting. I build dependable pipelines that turn messy operational data into trusted inputs for reporting and decision-making. Moving deeper into DE: automated ELT, orchestration, data modeling, and production-grade systems.
+Data analyst with NGO/govtech analytics experience. I turn messy operational data into trusted reporting and decision-ready metrics: clear KPI definitions, data quality checks, and repeatable refresh. Technically strong (SQL/Python/PostgreSQL) and comfortable going end-to-end — from ELT (Airflow/Docker) to marts and dashboards.
 
 ## What I do
-- Build data pipelines (ingest → raw → staging → mart)
-- Data modeling + metric definitions (MRR movements, churn, KPIs)
-- Data quality + reproducible environments (Docker, rerunnable scripts)
-- Postgres-first analytics stacks with Python + SQL
+- Build analytics-ready datasets (ingest → raw → staging → mart)
+- Define metrics and KPI logic (MRR movements, churn, occupancy/ADR, revenue)
+- Data quality + repeatability (validation checks, reproducible environments, rerunnable scripts)
+- SQL-first analysis + Python automation for reporting and insights
 
 ## Tech
-**Python** · **SQL** · **PostgreSQL** · **Docker** · **Airflow** · Git · Linux (arch, btw)
+**SQL** · **PostgreSQL** · **Python** · **Tableau** · **Excel/Sheets** · **Docker** · **Airflow** · Git · Linux
 
 (learning/using depending on project) dbt · cloud fundamentals · CI/CD basics
 
@@ -24,7 +24,7 @@ Repo: https://github.com/ivan-milinchuk/str-airbnb-revenue-engine
 
 ## Now
 - Building more “production-style” pipelines: configs, tests, docs, reproducibility
-- Targeting **Data Engineer** roles (Toronto)
+- Targeting **Data Analyst / Analytics Engineer** roles (Toronto, ON 🇨🇦)
 
 ## Contact
 - LinkedIn: [https://www.linkedin.com/in/ivan-milinchuk/](https://www.linkedin.com/in/ivan-milinchuk/)
